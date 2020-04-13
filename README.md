@@ -1,4 +1,4 @@
-# JPinak009.github.io
+# pinakjoshi.github.io (domaim name updated as username changed)
 This is for my JS demo application showcase.
 
 # GAME RULES:
